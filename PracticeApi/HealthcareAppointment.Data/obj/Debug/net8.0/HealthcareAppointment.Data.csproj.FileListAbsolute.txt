@@ -1,0 +1,17 @@
+C:\Users\ACER\Code\C#Web\API\PracticeApi\HealthcareAppointment.Data\obj\Debug\net8.0\HealthcareAppointment.Data.csproj.AssemblyReference.cache
+C:\Users\ACER\Code\C#Web\API\PracticeApi\HealthcareAppointment.Data\obj\Debug\net8.0\HealthcareAppointment.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Code\C#Web\API\PracticeApi\HealthcareAppointment.Data\obj\Debug\net8.0\HealthcareAppointment.Data.AssemblyInfoInputs.cache
+C:\Users\ACER\Code\C#Web\API\PracticeApi\HealthcareAppointment.Data\obj\Debug\net8.0\HealthcareAppointment.Data.AssemblyInfo.cs
+C:\Users\ACER\Code\C#Web\API\PracticeApi\HealthcareAppointment.Data\obj\Debug\net8.0\HealthcareAppointment.Data.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Code\C#Web\API\PracticeApi\HealthcareAppointment.Data\bin\Debug\net8.0\HealthcareAppointment.Data.deps.json
+C:\Users\ACER\Code\C#Web\API\PracticeApi\HealthcareAppointment.Data\bin\Debug\net8.0\HealthcareAppointment.Data.runtimeconfig.json
+C:\Users\ACER\Code\C#Web\API\PracticeApi\HealthcareAppointment.Data\bin\Debug\net8.0\HealthcareAppointment.Data.dll
+C:\Users\ACER\Code\C#Web\API\PracticeApi\HealthcareAppointment.Data\bin\Debug\net8.0\HealthcareAppointment.Data.pdb
+C:\Users\ACER\Code\C#Web\API\PracticeApi\HealthcareAppointment.Data\bin\Debug\net8.0\HealthcareAppointment.Models.dll
+C:\Users\ACER\Code\C#Web\API\PracticeApi\HealthcareAppointment.Data\bin\Debug\net8.0\HealthcareAppointment.Models.pdb
+C:\Users\ACER\Code\C#Web\API\PracticeApi\HealthcareAppointment.Data\obj\Debug\net8.0\Healthca.F9F7DFE4.Up2Date
+C:\Users\ACER\Code\C#Web\API\PracticeApi\HealthcareAppointment.Data\obj\Debug\net8.0\HealthcareAppointment.Data.dll
+C:\Users\ACER\Code\C#Web\API\PracticeApi\HealthcareAppointment.Data\obj\Debug\net8.0\refint\HealthcareAppointment.Data.dll
+C:\Users\ACER\Code\C#Web\API\PracticeApi\HealthcareAppointment.Data\obj\Debug\net8.0\HealthcareAppointment.Data.pdb
+C:\Users\ACER\Code\C#Web\API\PracticeApi\HealthcareAppointment.Data\obj\Debug\net8.0\HealthcareAppointment.Data.genruntimeconfig.cache
+C:\Users\ACER\Code\C#Web\API\PracticeApi\HealthcareAppointment.Data\obj\Debug\net8.0\ref\HealthcareAppointment.Data.dll

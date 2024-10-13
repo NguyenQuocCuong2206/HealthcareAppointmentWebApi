@@ -1,0 +1,11 @@
+C:\Users\ACER\Code\C#Web\API\PracticeApi\HealthcareAppointment.Models\bin\Debug\net8.0\HealthcareAppointment.Models.deps.json
+C:\Users\ACER\Code\C#Web\API\PracticeApi\HealthcareAppointment.Models\bin\Debug\net8.0\HealthcareAppointment.Models.dll
+C:\Users\ACER\Code\C#Web\API\PracticeApi\HealthcareAppointment.Models\bin\Debug\net8.0\HealthcareAppointment.Models.pdb
+C:\Users\ACER\Code\C#Web\API\PracticeApi\HealthcareAppointment.Models\obj\Debug\net8.0\HealthcareAppointment.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Code\C#Web\API\PracticeApi\HealthcareAppointment.Models\obj\Debug\net8.0\HealthcareAppointment.Models.AssemblyInfoInputs.cache
+C:\Users\ACER\Code\C#Web\API\PracticeApi\HealthcareAppointment.Models\obj\Debug\net8.0\HealthcareAppointment.Models.AssemblyInfo.cs
+C:\Users\ACER\Code\C#Web\API\PracticeApi\HealthcareAppointment.Models\obj\Debug\net8.0\HealthcareAppointment.Models.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Code\C#Web\API\PracticeApi\HealthcareAppointment.Models\obj\Debug\net8.0\HealthcareAppointment.Models.dll
+C:\Users\ACER\Code\C#Web\API\PracticeApi\HealthcareAppointment.Models\obj\Debug\net8.0\refint\HealthcareAppointment.Models.dll
+C:\Users\ACER\Code\C#Web\API\PracticeApi\HealthcareAppointment.Models\obj\Debug\net8.0\HealthcareAppointment.Models.pdb
+C:\Users\ACER\Code\C#Web\API\PracticeApi\HealthcareAppointment.Models\obj\Debug\net8.0\ref\HealthcareAppointment.Models.dll
