@@ -1,4 +1,5 @@
-﻿using HealthcareAppointment.Models.DTOs;
+﻿using HealthcareAppointment.Data.Heplers;
+using HealthcareAppointment.Models.DTOs;
 using PraticeWebApi1.Models;
 using System;
 using System.Collections.Generic;
@@ -11,6 +12,7 @@ namespace HealthcareAppointment.Business
     public interface IAppointmentService
     {
         Task<List<AppointmentDTO>> GetAll();
+        Task<List<AppointmentDTO>> GetByDoctorId(Guid id, QueryAppoinment queryAppoinment);
         Task<Appointments> GetById(Guid id);
         Task Add(Appointments appointments);
         Task Update(Appointments appointments);

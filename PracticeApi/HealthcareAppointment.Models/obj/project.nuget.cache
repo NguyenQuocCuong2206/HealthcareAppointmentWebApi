@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LtC8r/o4XgBD2jjOfV9HClFtk9xdR432uYe4AyKeU6CVB7sEIxlYj9ZMgJI5+4YlyTJbeXoCaIzH6QAt0nJ1Qw==",
+  "dgSpecHash": "gEH7slhGCtzAQepdedptA6I5l16NpxW7xsWe89/LZUWJ32G3bq/8RFoJzl9uFKO/QSaA36Ot+pi3aLX05pRQrQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ACER\\Code\\C#Web\\API\\PracticeApi\\HealthcareAppointment.Models\\HealthcareAppointment.Models.csproj",
+  "projectFilePath": "C:\\Users\\ACER\\Code\\C#Web\\Git\\HealthcareAppointmentWebApi\\PracticeApi\\HealthcareAppointment.Models\\HealthcareAppointment.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

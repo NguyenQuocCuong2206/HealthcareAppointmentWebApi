@@ -1,4 +1,5 @@
 ﻿using HealthcareAppointment.Business;
+using HealthcareAppointment.Data.Heplers;
 using HealthcareAppointment.Models;
 using HealthcareAppointment.Models.DTOs;
 using Microsoft.AspNetCore.Http;
@@ -84,6 +85,15 @@ namespace HealthcareAppointment.WebAPI.Controllers
             return Ok(appointment.ToAppoinmentDTO());
         }
 
-
+        [HttpGet("doctors/{doctorId}/search")]
+        public async Task<IActionResult> GetByDoctorId([FromRoute]Guid doctorId, [FromQuery] QueryAppoinment queryAppoinment)
+        {
+            var appointments = await _appointmentService.GetByDoctorId(doctorId, queryAppoinment);
+            if (appointments.Count == 0)
+            {
+                return NotFound();
+            }
+            return Ok(appointments);
+        }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACER\\Code\\C#Web\\API\\PracticeApi\\HealthcareAppointment.WebAPI\\HealthcareAppointment.WebAPI.csproj": {}
+    "C:\\Users\\ACER\\Code\\C#Web\\Git\\HealthcareAppointmentWebApi\\PracticeApi\\HealthcareAppointment.WebAPI\\HealthcareAppointment.WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACER\\Code\\C#Web\\API\\PracticeApi\\HealthcareAppointment.Business\\HealthcareAppointment.Business.csproj": {
+    "C:\\Users\\ACER\\Code\\C#Web\\Git\\HealthcareAppointmentWebApi\\PracticeApi\\HealthcareAppointment.Business\\HealthcareAppointment.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\Code\\C#Web\\API\\PracticeApi\\HealthcareAppointment.Business\\HealthcareAppointment.Business.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\Code\\C#Web\\Git\\HealthcareAppointmentWebApi\\PracticeApi\\HealthcareAppointment.Business\\HealthcareAppointment.Business.csproj",
         "projectName": "HealthcareAppointment.Business",
-        "projectPath": "C:\\Users\\ACER\\Code\\C#Web\\API\\PracticeApi\\HealthcareAppointment.Business\\HealthcareAppointment.Business.csproj",
+        "projectPath": "C:\\Users\\ACER\\Code\\C#Web\\Git\\HealthcareAppointmentWebApi\\PracticeApi\\HealthcareAppointment.Business\\HealthcareAppointment.Business.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\Code\\C#Web\\API\\PracticeApi\\HealthcareAppointment.Business\\obj\\",
+        "outputPath": "C:\\Users\\ACER\\Code\\C#Web\\Git\\HealthcareAppointmentWebApi\\PracticeApi\\HealthcareAppointment.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ACER\\Code\\C#Web\\API\\PracticeApi\\HealthcareAppointment.Data\\HealthcareAppointment.Data.csproj": {
-                "projectPath": "C:\\Users\\ACER\\Code\\C#Web\\API\\PracticeApi\\HealthcareAppointment.Data\\HealthcareAppointment.Data.csproj"
+              "C:\\Users\\ACER\\Code\\C#Web\\Git\\HealthcareAppointmentWebApi\\PracticeApi\\HealthcareAppointment.Data\\HealthcareAppointment.Data.csproj": {
+                "projectPath": "C:\\Users\\ACER\\Code\\C#Web\\Git\\HealthcareAppointmentWebApi\\PracticeApi\\HealthcareAppointment.Data\\HealthcareAppointment.Data.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\ACER\\Code\\C#Web\\API\\PracticeApi\\HealthcareAppointment.Data\\HealthcareAppointment.Data.csproj": {
+    "C:\\Users\\ACER\\Code\\C#Web\\Git\\HealthcareAppointmentWebApi\\PracticeApi\\HealthcareAppointment.Data\\HealthcareAppointment.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\Code\\C#Web\\API\\PracticeApi\\HealthcareAppointment.Data\\HealthcareAppointment.Data.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\Code\\C#Web\\Git\\HealthcareAppointmentWebApi\\PracticeApi\\HealthcareAppointment.Data\\HealthcareAppointment.Data.csproj",
         "projectName": "HealthcareAppointment.Data",
-        "projectPath": "C:\\Users\\ACER\\Code\\C#Web\\API\\PracticeApi\\HealthcareAppointment.Data\\HealthcareAppointment.Data.csproj",
+        "projectPath": "C:\\Users\\ACER\\Code\\C#Web\\Git\\HealthcareAppointmentWebApi\\PracticeApi\\HealthcareAppointment.Data\\HealthcareAppointment.Data.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\Code\\C#Web\\API\\PracticeApi\\HealthcareAppointment.Data\\obj\\",
+        "outputPath": "C:\\Users\\ACER\\Code\\C#Web\\Git\\HealthcareAppointmentWebApi\\PracticeApi\\HealthcareAppointment.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -92,8 +92,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ACER\\Code\\C#Web\\API\\PracticeApi\\HealthcareAppointment.Models\\HealthcareAppointment.Models.csproj": {
-                "projectPath": "C:\\Users\\ACER\\Code\\C#Web\\API\\PracticeApi\\HealthcareAppointment.Models\\HealthcareAppointment.Models.csproj"
+              "C:\\Users\\ACER\\Code\\C#Web\\Git\\HealthcareAppointmentWebApi\\PracticeApi\\HealthcareAppointment.Models\\HealthcareAppointment.Models.csproj": {
+                "projectPath": "C:\\Users\\ACER\\Code\\C#Web\\Git\\HealthcareAppointmentWebApi\\PracticeApi\\HealthcareAppointment.Models\\HealthcareAppointment.Models.csproj"
               }
             }
           }
@@ -144,14 +144,14 @@
         }
       }
     },
-    "C:\\Users\\ACER\\Code\\C#Web\\API\\PracticeApi\\HealthcareAppointment.Models\\HealthcareAppointment.Models.csproj": {
+    "C:\\Users\\ACER\\Code\\C#Web\\Git\\HealthcareAppointmentWebApi\\PracticeApi\\HealthcareAppointment.Models\\HealthcareAppointment.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\Code\\C#Web\\API\\PracticeApi\\HealthcareAppointment.Models\\HealthcareAppointment.Models.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\Code\\C#Web\\Git\\HealthcareAppointmentWebApi\\PracticeApi\\HealthcareAppointment.Models\\HealthcareAppointment.Models.csproj",
         "projectName": "HealthcareAppointment.Models",
-        "projectPath": "C:\\Users\\ACER\\Code\\C#Web\\API\\PracticeApi\\HealthcareAppointment.Models\\HealthcareAppointment.Models.csproj",
+        "projectPath": "C:\\Users\\ACER\\Code\\C#Web\\Git\\HealthcareAppointmentWebApi\\PracticeApi\\HealthcareAppointment.Models\\HealthcareAppointment.Models.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\Code\\C#Web\\API\\PracticeApi\\HealthcareAppointment.Models\\obj\\",
+        "outputPath": "C:\\Users\\ACER\\Code\\C#Web\\Git\\HealthcareAppointmentWebApi\\PracticeApi\\HealthcareAppointment.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -204,14 +204,14 @@
         }
       }
     },
-    "C:\\Users\\ACER\\Code\\C#Web\\API\\PracticeApi\\HealthcareAppointment.WebAPI\\HealthcareAppointment.WebAPI.csproj": {
+    "C:\\Users\\ACER\\Code\\C#Web\\Git\\HealthcareAppointmentWebApi\\PracticeApi\\HealthcareAppointment.WebAPI\\HealthcareAppointment.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\Code\\C#Web\\API\\PracticeApi\\HealthcareAppointment.WebAPI\\HealthcareAppointment.WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\Code\\C#Web\\Git\\HealthcareAppointmentWebApi\\PracticeApi\\HealthcareAppointment.WebAPI\\HealthcareAppointment.WebAPI.csproj",
         "projectName": "HealthcareAppointment.WebAPI",
-        "projectPath": "C:\\Users\\ACER\\Code\\C#Web\\API\\PracticeApi\\HealthcareAppointment.WebAPI\\HealthcareAppointment.WebAPI.csproj",
+        "projectPath": "C:\\Users\\ACER\\Code\\C#Web\\Git\\HealthcareAppointmentWebApi\\PracticeApi\\HealthcareAppointment.WebAPI\\HealthcareAppointment.WebAPI.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\Code\\C#Web\\API\\PracticeApi\\HealthcareAppointment.WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\ACER\\Code\\C#Web\\Git\\HealthcareAppointmentWebApi\\PracticeApi\\HealthcareAppointment.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -228,11 +228,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ACER\\Code\\C#Web\\API\\PracticeApi\\HealthcareAppointment.Business\\HealthcareAppointment.Business.csproj": {
-                "projectPath": "C:\\Users\\ACER\\Code\\C#Web\\API\\PracticeApi\\HealthcareAppointment.Business\\HealthcareAppointment.Business.csproj"
+              "C:\\Users\\ACER\\Code\\C#Web\\Git\\HealthcareAppointmentWebApi\\PracticeApi\\HealthcareAppointment.Business\\HealthcareAppointment.Business.csproj": {
+                "projectPath": "C:\\Users\\ACER\\Code\\C#Web\\Git\\HealthcareAppointmentWebApi\\PracticeApi\\HealthcareAppointment.Business\\HealthcareAppointment.Business.csproj"
               },
-              "C:\\Users\\ACER\\Code\\C#Web\\API\\PracticeApi\\HealthcareAppointment.Data\\HealthcareAppointment.Data.csproj": {
-                "projectPath": "C:\\Users\\ACER\\Code\\C#Web\\API\\PracticeApi\\HealthcareAppointment.Data\\HealthcareAppointment.Data.csproj"
+              "C:\\Users\\ACER\\Code\\C#Web\\Git\\HealthcareAppointmentWebApi\\PracticeApi\\HealthcareAppointment.Data\\HealthcareAppointment.Data.csproj": {
+                "projectPath": "C:\\Users\\ACER\\Code\\C#Web\\Git\\HealthcareAppointmentWebApi\\PracticeApi\\HealthcareAppointment.Data\\HealthcareAppointment.Data.csproj"
               }
             }
           }

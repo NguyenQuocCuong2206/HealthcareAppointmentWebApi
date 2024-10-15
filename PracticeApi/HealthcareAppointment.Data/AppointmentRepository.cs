@@ -1,4 +1,5 @@
-﻿using HealthcareAppointment.Models;
+﻿using HealthcareAppointment.Data.Heplers;
+using HealthcareAppointment.Models;
 using HealthcareAppointment.Models.DTOs;
 using Microsoft.EntityFrameworkCore;
 using PraticeWebApi1.Data;
@@ -49,6 +50,22 @@ namespace HealthcareAppointment.Data
         {
             var appoinments =  await context.Appointments.ToListAsync();
             return appoinments.Select(a => a.ToAppoinmentDTO()).ToList();
+        }
+
+        public async Task<List<AppointmentDTO>> GetByDoctorId(Guid id, QueryAppoinment queryAppoinment)
+        {
+            var appointment = context.Appointments.Where(a => a.DoctorId.Equals(id));
+            if (!string.IsNullOrEmpty(queryAppoinment.Date))
+            {
+                appointment = appointment.Where(a => a.Date.Equals(DateTime.Parse(queryAppoinment.Date)));
+            }
+            if (!string.IsNullOrEmpty(queryAppoinment.Status))
+            {
+                appointment = appointment.Where(a => a.Status == (EnumStatus)Enum.Parse(typeof(EnumStatus),queryAppoinment.Status));
+            }
+
+            var skipNumber = (queryAppoinment.PageNumber - 1 ) * queryAppoinment.PageSize;
+            return await appointment.Skip(skipNumber).Take(queryAppoinment.PageSize).Select(a => a.ToAppoinmentDTO()).ToListAsync();
         }
 
         public async Task<Appointments?> GetById(Guid id)

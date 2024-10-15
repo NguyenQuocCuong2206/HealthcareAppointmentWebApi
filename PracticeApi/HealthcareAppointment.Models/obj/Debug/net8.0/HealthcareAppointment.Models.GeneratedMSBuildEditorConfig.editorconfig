@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HealthcareAppointment.Models
-build_property.ProjectDir = C:\Users\ACER\Code\C#Web\API\PracticeApi\HealthcareAppointment.Models\
+build_property.ProjectDir = C:\Users\ACER\Code\C#Web\Git\HealthcareAppointmentWebApi\PracticeApi\HealthcareAppointment.Models\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

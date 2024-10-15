@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ACER\\Code\\C#Web\\API\\PracticeApi\\",
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Code\\C#Web\\Git\\HealthcareAppointmentWebApi\\PracticeApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC610237-2814-4F49-B0C7-50666E1E037A}|HealthcareAppointment.WebAPI\\HealthcareAppointment.WebAPI.csproj|c:\\users\\acer\\code\\c#web\\api\\practiceapi\\healthcareappointment.webapi\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58DB4840-63E5-423B-8E04-DC9F522B1F44}|HealthcareAppointment.Data\\HealthcareAppointment.Data.csproj|c:\\users\\acer\\code\\c#web\\git\\healthcareappointmentwebapi\\practiceapi\\healthcareappointment.data\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DB4840-63E5-423B-8E04-DC9F522B1F44}|HealthcareAppointment.Data\\HealthcareAppointment.Data.csproj|solutionrelative:healthcareappointment.data\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DB4840-63E5-423B-8E04-DC9F522B1F44}|HealthcareAppointment.Data\\HealthcareAppointment.Data.csproj|c:\\users\\acer\\code\\c#web\\git\\healthcareappointmentwebapi\\practiceapi\\healthcareappointment.data\\heplers\\queryappoinment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DB4840-63E5-423B-8E04-DC9F522B1F44}|HealthcareAppointment.Data\\HealthcareAppointment.Data.csproj|solutionrelative:healthcareappointment.data\\heplers\\queryappoinment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC610237-2814-4F49-B0C7-50666E1E037A}|HealthcareAppointment.WebAPI\\HealthcareAppointment.WebAPI.csproj|c:\\users\\acer\\code\\c#web\\git\\healthcareappointmentwebapi\\practiceapi\\healthcareappointment.webapi\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC610237-2814-4F49-B0C7-50666E1E037A}|HealthcareAppointment.WebAPI\\HealthcareAppointment.WebAPI.csproj|solutionrelative:healthcareappointment.webapi\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,13 +54,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QueryAppoinment.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Code\\C#Web\\Git\\HealthcareAppointmentWebApi\\PracticeApi\\HealthcareAppointment.Data\\Heplers\\QueryAppoinment.cs",
+              "RelativeDocumentMoniker": "HealthcareAppointment.Data\\Heplers\\QueryAppoinment.cs",
+              "ToolTip": "C:\\Users\\ACER\\Code\\C#Web\\Git\\HealthcareAppointmentWebApi\\PracticeApi\\HealthcareAppointment.Data\\Heplers\\QueryAppoinment.cs",
+              "RelativeToolTip": "HealthcareAppointment.Data\\Heplers\\QueryAppoinment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:55:50.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Code\\C#Web\\Git\\HealthcareAppointmentWebApi\\PracticeApi\\HealthcareAppointment.Data\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "HealthcareAppointment.Data\\AppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\ACER\\Code\\C#Web\\Git\\HealthcareAppointmentWebApi\\PracticeApi\\HealthcareAppointment.Data\\AppointmentRepository.cs",
+              "RelativeToolTip": "HealthcareAppointment.Data\\AppointmentRepository.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAgwDsAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:15:55.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AppointmentsController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Code\\C#Web\\API\\PracticeApi\\HealthcareAppointment.WebAPI\\Controllers\\AppointmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Code\\C#Web\\Git\\HealthcareAppointmentWebApi\\PracticeApi\\HealthcareAppointment.WebAPI\\Controllers\\AppointmentsController.cs",
               "RelativeDocumentMoniker": "HealthcareAppointment.WebAPI\\Controllers\\AppointmentsController.cs",
-              "ToolTip": "C:\\Users\\ACER\\Code\\C#Web\\API\\PracticeApi\\HealthcareAppointment.WebAPI\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Code\\C#Web\\Git\\HealthcareAppointmentWebApi\\PracticeApi\\HealthcareAppointment.WebAPI\\Controllers\\AppointmentsController.cs",
               "RelativeToolTip": "HealthcareAppointment.WebAPI\\Controllers\\AppointmentsController.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAYwFYAAAAAAAAA",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAswF8AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T03:16:25.558Z",
               "EditorCaption": ""
